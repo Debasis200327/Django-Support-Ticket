@@ -1,4 +1,4 @@
-# Attendance-Punch-Log-Auditor-and-Django-Support-Ticket-
+Django-Support-Ticket
 # Support Ticket Intake and Triage Module
 
 A Django app (`supportdesk`) for collecting support tickets from trainees.
